@@ -1,0 +1,10 @@
+<Typography
+textAlign="center"
+sx={{mt:2, fontSize: "10px"}}
+>
+App creada usando la API:{" "}
+<a
+href="https://www.weatherapi.com/"
+title="Weather API"
+>WeatherAPI.com</a>
+</Typography>
